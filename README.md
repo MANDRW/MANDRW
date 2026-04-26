@@ -2,7 +2,7 @@
 
 ### About Me
 
-I am a Computer Science student specializing in **IT Automation Systems**, with a keen interest in **Artificial Intelligence**, **Machine Learning**, and **3D Printing**.
+I am a Computer Engineering student, with a keen interest in **Artificial Intelligence**, **Machine Learning**, and **3D Printing**.
 
 I combine academic knowledge with practical engineering skills, looking for opportunities to work on challenging software and hardware-related projects.
 
