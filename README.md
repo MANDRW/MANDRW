@@ -6,8 +6,6 @@ I am a Computer Engineering student, with a keen interest in **Artificial Intell
 
 I combine academic knowledge with practical engineering skills, looking for opportunities to work on challenging software and hardware-related projects.
 
-**Currently seeking:** AI / Software Engineering Internship.
-
 ---
 
 ### Tech Stack
